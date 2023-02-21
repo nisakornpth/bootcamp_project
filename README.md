@@ -3,8 +3,8 @@ Data science bootcamp 6
 
 We learn 10 sprints during 4 month program.
 
-Spreadsheets
-SQL Database
+- Spreadsheets
+- SQL Database
 R Programming
 Data Transformation
 Data Visualization
